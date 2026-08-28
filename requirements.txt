@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn==1.5.1
+xgboost==2.0.3
+statsmodels
+joblib
+gseapy
+mygene
+goatools
